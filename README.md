@@ -25,3 +25,8 @@ Not as helpful as I expected it to be.  Again, I picked this up after seeing it 
 **Confessions of an Economic Hitman** by John Perkins
 
 This book taught me more (in practical terms) about U.S. foreign policy than a lot of my classes ever did.  It also further strengthens my desire to work in a small startup company rather than a huge multinational corporation.  Very eye-opening, I recommend this book to anyone who wants to know why the United States is involved in so many foreign conflicts.
+
+** Bursts: The Hidden Patterns Behind Everything We Do** by Albert-Laszlo Barabasi
+
+I got a third of the way through this book before I gave up on it.  To me it couldn't decide if it was trying to be a history book or a science book.  I was particularly frustrated at how the author described how Poisson developed a method of knowing whether something is truly random, but never even explicitly stated Poisson's formula.  Maybe he lays it out later on in the book, but I didn't want to stick around to find out.
+
