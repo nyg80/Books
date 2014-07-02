@@ -26,7 +26,10 @@ Not as helpful as I expected it to be.  Again, I picked this up after seeing it 
 
 This book taught me more (in practical terms) about U.S. foreign policy than a lot of my classes ever did.  It also further strengthens my desire to work in a small startup company rather than a huge multinational corporation.  Very eye-opening, I recommend this book to anyone who wants to know why the United States is involved in so many foreign conflicts.
 
-** Bursts: The Hidden Patterns Behind Everything We Do** by Albert-Laszlo Barabasi
+**Bursts: The Hidden Patterns Behind Everything We Do** by Albert-Laszlo Barabasi
 
 I got a third of the way through this book before I gave up on it.  To me it couldn't decide if it was trying to be a history book or a science book.  I was particularly frustrated at how the author described how Poisson developed a method of knowing whether something is truly random, but never even explicitly stated Poisson's formula.  Maybe he lays it out later on in the book, but I didn't want to stick around to find out.
 
+**The Power Of Now** by Eckhart Tolle
+
+I used to read the first chapter of this book from time to time to help handle anxiety I was feeling.  I decided to read the whole thing and check out what else Tolle has to say about mindfulness and presence.  I must say that this book certainly changed my mindset on things in life and has helped me to see the positive in everything.  I no longer dwell on painful thoughts and instead am more effective in what I work on.
