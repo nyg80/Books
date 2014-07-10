@@ -33,3 +33,8 @@ I got a third of the way through this book before I gave up on it.  To me it cou
 **The Power Of Now** by Eckhart Tolle
 
 I used to read the first chapter of this book from time to time to help handle anxiety I was feeling.  I decided to read the whole thing and check out what else Tolle has to say about mindfulness and presence.  I must say that this book certainly changed my mindset on things in life and has helped me to see the positive in everything.  I no longer dwell on painful thoughts and instead am more effective in what I work on.
+
+**Rework** by Jason Fried and DHH
+
+This was a quick read, but I enjoyed it.  This is a good book for anyone running a company (of any age), or considering starting one in the near future.  It has good material about moving/changing quickly to meet demands and find the best way of operation.  The chapters on hiring, and culture, both stood out to me as super accurate and must reads.  I've seen the results of a forced culture, with too many policies, and it was cringeworthy.
+
