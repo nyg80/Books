@@ -36,19 +36,27 @@ I used to read the first chapter of this book from time to time to help handle a
 
 **Rework** by Jason Fried and DHH
 
-This was a quick read, but I enjoyed it.  This is a good book for anyone running a company (of any age), or considering starting one in the near future.  It has good material about moving/changing quickly to meet demands and find the best way of operation.  The chapters on hiring, and culture, both stood out to me as super accurate and must reads.  I've seen the results of a forced culture, with too many policies, and it was cringeworthy.
+This was a quick read, but I enjoyed it.  This is a good book for anyone running a company (of any age), or considering starting one in the near future.  It has good material about moving/changing quickly to meet demands and find the best way of operation.  The chapters on hiring, and culture, both stood out to me as super accurate and must reads.  I've personally seen the results of a forced culture, with too many policies, and it was cringeworthy.
 
 **Bad As I Wanna Be** by Dennis Rodman
 
 I first decided to get this book when I read somewhere that Rodman almost killed himself, then decided he would just live his life however he wanted.  This book was relatively quick to read, and pretty interesting.  Unfortunately it is a bit repetitive at points.  What fascinated me about this book is Rodman's philosophy and outlook.  It sounds to me like he experienced ego death when he almost killed himself, as well as suffering from Impostor syndrome before that.  He also seems to have some components of the stoicism philosophy in his reasoning.  It is obvious from this book that Rodman is very tough mentally, a trait I admire.
 
+**Founders At Work** by Jessica Livingston
+
+I finished reading this book while in Brazil.  This book is chock full of great insights and stories from many big (and not so big) names in tech entrepreneurship.  It was very fascinating to see the different approaches of different entrepreneurs: some were flying by the seat of their pants, lucky to keep their websites up while they built to scale it, while others took on many millions in funding and spent many calculated years building their products.  I also liked to see founders' philosophies on managing their companies. I might even apply to some of the companies mentioned in the book based on their founder/CEO's views on how to treat employees.
+
+**A New Earth** by Eckhart Tolle
+
+I read this book while I was in Brazil.  It is very similar in spirit to The Power of Now, except Tolle stresses different methods to reaching mental peace.  Whereas in The Power of Now he stresses stopping the stream of thoughts, in A New Earth he mostly discusses identifying and shrinking the emotional "pain body."  I would recommend this book to be read before The Power of Now, as I think its content is slightly more accessible.
+
+
 **To read list**
 * Innovation and Entrepreneurship by Peter Drucker
 * Michael Pollan's books on nutrition
-* Bad As I Wanna Be by Dennis Rodman
-* A New Earth by Eckhart Tolle
 * the rest of John Perkin's books
 * Ja Rule biography
 * Start Small Stay Small
 * Business Adventures by John Brooks
 * most of the books recommended by Derek Sivers and Dan Shipper
+* Bruce Lee's books
