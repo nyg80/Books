@@ -58,5 +58,5 @@ I read this book while I was in Brazil.  It is very similar in spirit to The Pow
 * Ja Rule biography
 * Start Small Stay Small
 * Business Adventures by John Brooks
-* most of the books recommended by Derek Sivers and Dan Shipper
+* most of the books recommended by Derek Sivers, Dan Shipper, and Alan Kay
 * Bruce Lee's books
