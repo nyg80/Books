@@ -50,6 +50,11 @@ I finished reading this book while in Brazil.  This book is chock full of great 
 
 I read this book while I was in Brazil.  It is very similar in spirit to The Power of Now, except Tolle stresses different methods to reaching mental peace.  Whereas in The Power of Now he stresses stopping the stream of thoughts, in A New Earth he mostly discusses identifying and shrinking the emotional "pain body."  I would recommend this book to be read before The Power of Now, as I think its content is slightly more accessible.
 
+**Radical Honesty** by Brad Blanton
+
+Interesting book.  The ending of it is very similar to The Power of Now or A New Earth, although Blanton uses some simpler language.  The beginning of the book discusses some things that Eckhart Tolle doesn't really mention, including being totally transparent and honest with yourself.  I didn't get much from this book after already reading Tolle's books, but I think that someone who is feeling lost or unhappy might gain a lot from it.
+
+
 
 **To read list**
 * Innovation and Entrepreneurship by Peter Drucker
