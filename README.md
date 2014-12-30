@@ -54,7 +54,9 @@ I read this book while I was in Brazil.  It is very similar in spirit to The Pow
 
 Interesting book.  The ending of it is very similar to The Power of Now or A New Earth, although Blanton uses some simpler language.  The beginning of the book discusses some things that Eckhart Tolle doesn't really mention, including being totally transparent and honest with yourself.  I didn't get much from this book after already reading Tolle's books, but I think that someone who is feeling lost or unhappy might gain a lot from it.
 
+**The Omnivore's Dilemma** by Michael Pollan
 
+To be honest, I had to force myself to finish this book, although I am glad I did.  Pollan's origins as an investigative journalist really show as he delves as deep into the background of 4 "standard" meals as he can.  This book gave me tons of information all about how our food is grown, processed, and distributed, and why it is so important to try and avoid processed foods whenever possible.  I would recommend this book to anyone who wants to learn more about the health advantages and disadvantages of different types of food.
 
 **To read list**
 * Innovation and Entrepreneurship by Peter Drucker
