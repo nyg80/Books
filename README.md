@@ -58,9 +58,16 @@ Interesting book.  The ending of it is very similar to The Power of Now or A New
 
 To be honest, I had to force myself to finish this book, although I am glad I did.  Pollan's origins as an investigative journalist really show as he delves as deep into the background of 4 "standard" meals as he can.  This book gave me tons of information all about how our food is grown, processed, and distributed, and why it is so important to try and avoid processed foods whenever possible.  I would recommend this book to anyone who wants to learn more about the health advantages and disadvantages of different types of food.
 
+**In Defense of Food: An Eater's Manifesto** by Michael Pollan
+
+Compared to 'The Omnivore's Dilemma' this read like a Harry Potter book.  This book is definitely much more accessible to people who aren't really that concerned with the hows and whys of food being healthy or not, but who want to know ways to eat in a healthier way.  I particularly like his guidelines for eating well, and will try to follow them.  I plan on reading the remainder of his books about food, now I'm hoping that I will be able to find a book this informative and accessible about how to be a gardener.
+
+
+
 **To read list**
 * Innovation and Entrepreneurship by Peter Drucker
 * Michael Pollan's books on nutrition
+* 'Grain Brain'
 * the rest of John Perkin's books
 * Ja Rule biography
 * Start Small Stay Small
