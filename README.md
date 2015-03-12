@@ -68,6 +68,7 @@ Compared to 'The Omnivore's Dilemma' this read like a Harry Potter book.  This b
 * Innovation and Entrepreneurship by Peter Drucker
 * Michael Pollan's books on nutrition
 * 'Grain Brain'
+* these 10 books: http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/
 * the rest of John Perkin's books
 * Ja Rule biography
 * Start Small Stay Small
