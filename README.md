@@ -62,6 +62,10 @@ To be honest, I had to force myself to finish this book, although I am glad I di
 
 Compared to 'The Omnivore's Dilemma' this read like a Harry Potter book.  This book is definitely much more accessible to people who aren't really that concerned with the hows and whys of food being healthy or not, but who want to know ways to eat in a healthier way.  I particularly like his guidelines for eating well, and will try to follow them.  I plan on reading the remainder of his books about food, now I'm hoping that I will be able to find a book this informative and accessible about how to be a gardener.
 
+**Codependent No More** by Melody Beattie
+
+Picked this up after a painful break up.  I read the entire book except for skimming the chapter on working a 12 step program.  The main part that was helpful to me was chapter 5, detaching, although I think A New Earth by Eckhart Tolle is more comprehensive and effective in this area.  From the rest of the book I learned symptoms of alcoholics and codependents, not sure how much use I'll get out of those skills.  I think someone who always dates people with addictions could definitely be helped by this book.
+
 
 
 **To read list**
