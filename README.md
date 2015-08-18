@@ -66,6 +66,10 @@ Compared to 'The Omnivore's Dilemma' this read like a Harry Potter book.  This b
 
 Picked this up after a painful break up.  I read the entire book except for skimming the chapter on working a 12 step program.  The main part that was helpful to me was chapter 5, detaching, although I think A New Earth by Eckhart Tolle is more comprehensive and effective in this area.  From the rest of the book I learned symptoms of alcoholics and codependents, not sure how much use I'll get out of those skills.  I think someone who always dates people with addictions could definitely be helped by this book.
 
+**What Do You Care What Other People Think** by Richard Feynman
+
+I like how Feynman advocates questioning others, and not being afraid to find things out on your own.  The section about being on the Rogers Commission made me want to avoid working in government bureaucracy as much as possible.  His investigation was admirable, and he was incredibly systematic and thorough in thinking through how management and engineers had different perspectives on the safety of the shuttle's flights.
+
 
 
 **To read list**
