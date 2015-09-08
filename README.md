@@ -70,6 +70,9 @@ Picked this up after a painful break up.  I read the entire book except for skim
 
 I like how Feynman advocates questioning others, and not being afraid to find things out on your own.  The section about being on the Rogers Commission made me want to avoid working in government bureaucracy as much as possible.  His investigation was admirable, and he was incredibly systematic and thorough in thinking through how management and engineers had different perspectives on the safety of the shuttle's flights.
 
+**Flash Boys** by Michael Lewis
+
+I picked this up to prepare for the upcoming starfighter.io challenges based around a stock exchange.  I was vaguely aware of what HFT was, but this illustrated just how harmful it is, in a very engaging and interesting way.  HFT sounds very interesting to the CoE in me, solely for the technical challenges of having to be as fast and efficient as possible, and how close you have to be to the hardware to achieve that.  A very accessible book, I would recommend this to anyone wondering how HFT works, and how it affects the markets.
 
 
 **To read list**
