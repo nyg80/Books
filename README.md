@@ -74,6 +74,12 @@ I like how Feynman advocates questioning others, and not being afraid to find th
 
 I picked this up to prepare for the upcoming starfighter.io challenges based around a stock exchange.  I was vaguely aware of what HFT was, but this illustrated just how harmful it is, in a very engaging and interesting way.  HFT sounds very interesting to the CoE in me, solely for the technical challenges of having to be as fast and efficient as possible, and how close you have to be to the hardware to achieve that.  A very accessible book, I would recommend this to anyone wondering how HFT works, and how it affects the markets.
 
+**Dark Pools: The rise of A.I. trading machines and the looming threat to Wall Street** by Scott Patterson
+
+Another book that I read to prepare for "stockfighter."  This was a compelling read, and I loved how it followed the history of electronic trading from the very start.  To be honest I wish that I had read this before reading Flash Boys because of the history aspect.  I'm really curious what setup Island was built on top of, as the book gushes over how infallible it was as a system.  This book is good for anyone looking for a comprehensive background into HFT, although it isn't quite as directly informative as Flash Boys is.
+
+
+
 
 **To read list**
 * Innovation and Entrepreneurship by Peter Drucker
