@@ -78,6 +78,18 @@ I picked this up to prepare for the upcoming starfighter.io challenges based aro
 
 Another book that I read to prepare for "stockfighter."  This was a compelling read, and I loved how it followed the history of electronic trading from the very start.  To be honest I wish that I had read this before reading Flash Boys because of the history aspect.  I'm really curious what setup Island was built on top of, as the book gushes over how infallible it was as a system.  This book is good for anyone looking for a comprehensive background into HFT, although it isn't quite as directly informative as Flash Boys is.
 
+**Making A Good Brain Great** by Daniel Amen
+
+I read this based off of the recommendation by Derek Sivers.  The quiz told me that my brain is in excellent shape, except for my prefrontal cortex.  This is why I procrastinate and am messy.  I'm going to slowly add in some of the supplements that Dr. Amen recommends, as well as try to get more cardio in, and work harder on learning foreign languages.  I'm going to read his book on the 7 types of ADD as I think it will be helpful for me in becoming more disciplined and focused on my goals.
+
+**Rich Dad, Poor Dad** by Robert Kiyosaki
+
+I read this book after my boss gave me a copy.  It was a relatively quick and easy read, but pretty interesting.  It made me feel more calm and confident about becoming financially independent, because before reading it, I thought that the only path to wealth was through a successful startup (due to the bubble I grew up in, I suppose).  This book is thin on details, its main purpose seems to be to convince people to opt out of the rat race, and that it is possible.  Any of my friends that already have that mindset don't really need this book.
+
+**Rich Dad's Cashflow Quadrant** by Robert Kiyosaki
+
+I enjoyed Rich Dad, Poor Dad so much that I picked the sequel up from the library.  This book contained some more concrete steps to take on how to change from living off of paychecks to your own passive income.  It was pretty high level except for a few moments where Kiyosaki mentioned specifics from deals of his own, including words and phrases that I'm entirely unfamiliar with.  I intend to buy a copy of this book and re read it, highlighting and marking off those advanced portions and studying other materials until I understand completely.  I also like how he lists other recommended books, I intend to work my way through a number of them.
+
 
 
 
